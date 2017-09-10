@@ -2,4 +2,4 @@
 
 Solutions to the Clojure Koans (WIP).
 
-More information, here - http://www.clojurekoans.com/
+More information, here – http://www.clojurekoans.com/
